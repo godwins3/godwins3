@@ -17,10 +17,14 @@ SOFTWARE DEV
   <tr>
     <td>
        <img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=godwins3&theme=vision-friendly-dark"  />
-     </td>  
+     </td> 
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=godwins3&show_icons=true"/>
+    </td>
    </tr>
     </tr>
 </table>
+<img src="https://github-readme-stats.vercel.app/api?username=godwins3&show_icons=true"/>
 </center>
 
 
