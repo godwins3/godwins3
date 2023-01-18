@@ -10,7 +10,6 @@ SOFTWARE DEV
 
 ![github](https://img.shields.io/github/followers/godwins3?style=plastic)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godwins3)](https://github.com/godwins3/github-readme-stats)
 
 <center>
   <table>
@@ -26,6 +25,9 @@ SOFTWARE DEV
   
 
 </center>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godwins3)](https://github.com/godwins3/github-readme-stats)
+
 
 
 
