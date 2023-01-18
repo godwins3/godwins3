@@ -18,7 +18,7 @@ SOFTWARE DEV
     <td>
        <img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=godwins3&theme=vision-friendly-dark"  />
      </td> 
-    <td>
+    
       
     </td>
    </tr>
