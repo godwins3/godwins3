@@ -5,8 +5,9 @@ SOFTWARE DEV
 - 👨🏾‍💻 Currently working on  Kotlin and Python.
 - 💻 Currently learning Javascript
 - 🤔 I’m looking for help with Jetpack Compose and machine learning with python
-- ✌🏾 Looking forward opportunities and collaboration related with other android app development.
+- ✌🏾 Looking forward opportunities and collaboration related with other android app development and python developers.
 - 📫 I'm available to answer your python related questions on any platform.
+- 💻 Computer Vision engineer
 
 ![github](https://img.shields.io/github/followers/godwins3?style=plastic)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
