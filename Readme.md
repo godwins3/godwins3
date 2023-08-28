@@ -10,7 +10,6 @@ SOFTWARE DEV
 - 💻 Computer Vision engineer
 
 ![github](https://img.shields.io/github/followers/godwins3?style=plastic)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <center>
   <table>
