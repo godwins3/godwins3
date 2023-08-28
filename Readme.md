@@ -3,8 +3,8 @@ SOFTWARE DEV
 ### Hi there 👋
 
 - 👨🏾‍💻 Currently working on  Kotlin and Python.
-- 💻 Currently learning Javascript
-- 🤔 I’m looking for help with Jetpack Compose and machine learning with python
+- 💻 Currently learning Javascript and web3
+- 🤔 I’m looking for help with Flutter and web3
 - ✌🏾 Looking forward opportunities and collaboration related with other android app development and python developers.
 - 📫 I'm available to answer your python related questions on any platform.
 - 💻 Computer Vision engineer
