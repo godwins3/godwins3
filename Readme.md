@@ -37,7 +37,8 @@ SOFTWARE DEV
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godwins3&theme=vision-friendly-dark&count_private=true)](https://github.com/godwins3/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=godwins3&theme=vision-friendly-dark&count_private=true)](https://github.com/godwins3/github-readme-stats)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-
-
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
