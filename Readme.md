@@ -42,7 +42,7 @@ SOFTWARE ENGINEER
 
 ---
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<p> Get a life bruv 😂😂😂 no memes for you today </p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=godwins3&icon=2&color=3)](https://visitcount.itsvg.in)
