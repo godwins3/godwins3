@@ -32,8 +32,4 @@ SOFTWARE ENGINEER
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-### 😂 Random Dev Meme
-<p> Get a life bruv 😂😂😂 no memes for you today </p>
-
----
 [![](https://visitcount.itsvg.in/api?id=godwins3&icon=2&color=3)](https://visitcount.itsvg.in)
