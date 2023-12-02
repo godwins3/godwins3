@@ -1,6 +1,3 @@
-SOFTWARE ENGINEER
-
----
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praise-godwins) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/praise_godwins)
 
@@ -18,13 +15,7 @@ SOFTWARE ENGINEER
 
 ---
 <center>
-  <table>
-  <tr>
-    <td>
-       <img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=godwins3&theme=vision-friendly-dark&count_private=true"  />
-     </td> 
-   </tr>
-  </table>
+  <img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=godwins3&theme=vision-friendly-dark&count_private=true"  />
 </center>
 
 ---
