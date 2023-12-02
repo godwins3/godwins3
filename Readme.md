@@ -28,9 +28,6 @@ SOFTWARE ENGINEER
 </center>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godwins3&theme=vision-friendly-dark&count_private=true)](https://github.com/godwins3/github-readme-stats)
-
----
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
