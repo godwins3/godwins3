@@ -24,7 +24,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<figure><embed src="https://wakatime.com/share/@Just_Athena/a79d04e7-16b2-40c4-805f-0f025549197c.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Just_Athena/73b1ebb9-37bb-4246-8782-34f4db1f550f.png" /></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=godwins3&icon=2&color=3)](https://visitcount.itsvg.in)
