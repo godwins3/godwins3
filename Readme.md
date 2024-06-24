@@ -1,9 +1,20 @@
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praise-godwins) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/praise_godwins)
 
-![godwins3's Stats](https://github-readme-stats.vercel.app/api?username=godwins3&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![godwins3's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=godwins3&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![godwins3's Streak](https://github-readme-streak-stats.herokuapp.com/?user=godwins3&theme=vue-dark&hide_border=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praise-godwins) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/praise_godwins)
+---
+## Hi there 👋
+Praise G here
+
+
+- 🔭 I’m currently working on dustapi
+- 🌱 I’m currently learning Rust
+- 👯 I’m looking to collaborate on python projects
+- 🤔 I’m looking for help with building dustapi
+- 💬 Ask me about python
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I own a computer
+
+---
 
 ---
 ### ✍️ Random Dev Quote
