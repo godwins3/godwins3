@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Praise Godwins and I'm a software engineer from Kenya</h2>
+<h2 align="left">Hi 👋! My name is Praise Godwins and I like to solve problems with colored text</h2>
 
 ###
 
